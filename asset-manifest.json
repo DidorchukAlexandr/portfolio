@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.85c2d723.css",
+    "main.js": "/portfolio/static/js/main.da5739e1.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/simpson-homer.gif": "/portfolio/static/media/simpson-homer.ab031268a7d74eaa96ac.gif",
+    "static/media/FavoritePizza.jpg": "/portfolio/static/media/FavoritePizza.cbc4c9e1ca3f01118f18.jpg",
+    "static/media/DidorchukOleksandr Junior Front-End Developer.pdf": "/portfolio/static/media/DidorchukOleksandr Junior Front-End Developer.d9022c21d2fbfe27550e.pdf",
+    "static/media/FuniroLanding.jpg": "/portfolio/static/media/FuniroLanding.6710afb13c0d9c417ecc.jpg",
+    "static/media/Positivus.jpg": "/portfolio/static/media/Positivus.d6cd01f4877b58cc7834.jpg",
+    "static/media/IMG-profile.jpg": "/portfolio/static/media/IMG-profile.55e118372a076aa28d3f.jpg",
+    "static/media/Phonebook.jpg": "/portfolio/static/media/Phonebook.bc27d3de7664c6d05762.jpg",
+    "static/media/hand.svg": "/portfolio/static/media/hand.330b49cc7cd3bedaa20e738eb0d42fc1.svg",
+    "static/media/files.svg": "/portfolio/static/media/files.74c3b361a053cb539ec37423a375bb40.svg",
+    "static/media/send.svg": "/portfolio/static/media/send.4a0813ca6ebabd61a600f44a681415f9.svg",
+    "static/media/scroll.svg": "/portfolio/static/media/scroll.d56f8c39457cd116ea1558680ef49750.svg",
+    "index.html": "/portfolio/index.html",
+    "main.85c2d723.css.map": "/portfolio/static/css/main.85c2d723.css.map",
+    "main.da5739e1.js.map": "/portfolio/static/js/main.da5739e1.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85c2d723.css",
+    "static/js/main.da5739e1.js"
+  ]
+}
